@@ -1,0 +1,4 @@
+Math: 42 12 0
+Geography: 48 25 4
+Chemistry: 25 8 20
+English: 50 10 0
